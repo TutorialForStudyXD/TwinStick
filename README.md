@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # UE4REpository
 Some tutos of ue4
 Same texture used are in association with Creative Commons lisence.
