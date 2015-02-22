@@ -8,8 +8,3 @@ All model are Free for use with UE4 project or Created by myself.
 Same project has be made for the UE4 community and can be found here  https://forums.unrealengine.com
 To Use the content that are provided jus unfolder to project folder/content
 Enjoy.
-=======
-# TwinStick
-TwinStick UE4 template used
-.
->>>>>>> origin/master
